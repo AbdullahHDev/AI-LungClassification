@@ -53,3 +53,45 @@ This project is designed to enable users to train machine learning models to cla
 3. Ensure that the dataset file paths are correct.
 4. Run the Jupyter notebook cell by cell
 
+## Contributing
+
+Contributions are welcome and appreciated. Whether it's bug fixes, feature enhancements, or suggestions, feel free to fork the project and create a pull request.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AI-LungClassification`)
+3. Commit your Changes (`git commit -m 'Add some AI-LungClassification'`)
+4. Push to the Branch (`git push origin feature/AI-LungClassification`)
+5. Open a Pull Request
+
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+## Contact
+
+Abdullah Hussain - A.A.Hussain1@newcastle.ac.uk
+
+Project Link: [https://github.com/AbdullahHDev/AI-LungClassification](https://github.com/AbdullahHDev/AI-LungClassification)
+
+## Acknowledgments
+
+* [TensorFlow](https://www.tensorflow.org/)
+* [Keras](https://keras.io/)
+* [Streamlit](https://streamlit.io/)
+* [The dataset](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
+
+Data: https://data.mendeley.com/datasets/rscbjbr9sj/2
+
+License: CC BY 4.0
+
+Citation: http://www.cell.com/cell/fulltext/S0092-8674(18)30154-5
+
+[Python-badge]: https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white
+[Python-url]: https://python.org
+[TensorFlow-badge]: https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white
+[TensorFlow-url]: https://www.tensorflow.org/
+[Keras-badge]: https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&logo=keras&logoColor=white
+[Keras-url]: https://keras.io/
+[Streamlit-badge]: https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white
+[Streamlit-url]: https://streamlit.io/
+
