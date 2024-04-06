@@ -35,3 +35,21 @@ This section outlines the steps to set up the AI Lung Classification Project loc
 1. Select which model you want to use using the sidebar, you can also select all models to see the probabillity results for all models.
 2. Upload your X-Ray image (test images are included in the datasets/tests folder).
 3. Press the test button and wait for the results to show.
+
+## Usage for Model Training
+
+This project is designed to enable users to train machine learning models to classify chest X-ray images for the detection of pneumonia. Here's how you can train the models yourself:
+
+### Pre-requisites
+
+- Ensure you have Python and Pip installed on your system.
+- The project uses TensorFlow, Keras, and Streamlit among other libraries. Install all required libraries using: `pip install -r requirements.txt`
+- Clone the repository: `git clone https://github.com/AbdullahHDev/AI-LungClassification.git`
+
+### Training the Models
+
+1. The project includes scripts for training four different models: DenseNet121, VGG16, ResNet50, and InceptionV3.
+2. Open the "chest-x-ray-model.ipynb" file in your desired IDE or using Jupyter (if you require a GPU, use Kaggle or Google Cloud and import the notebook)
+3. Ensure that the dataset file paths are correct.
+4. Run the Jupyter notebook cell by cell
+
